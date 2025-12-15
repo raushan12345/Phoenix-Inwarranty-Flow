@@ -1,0 +1,26 @@
+name : Postman Collection Workflow
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  shedule:
+    - cron : 30 02 * * * # 8 AM IST Every day
+    - cron : 00 14 * * * # 7:30 PM IST Every day
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
