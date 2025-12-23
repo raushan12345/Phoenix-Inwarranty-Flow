@@ -47,7 +47,7 @@ You can run the project on your local system for that:
 ```
 ## HTML Report ##
 The Report will be created in the newman folder
-![Postman Report](file:///C:/Users/raukumar3/SDET%20Raushan/Postman%20Module/Phoenix%20Inwarranty%20Flow/newman/newman-run-report-2025-12-13-18-17-11-372-0.html)
+![Postman Report](https://github.com/raushan12345/Phoenix-Inwarranty-Flow/blob/Static-Content/NewmanReport.png)
 
 ## Project Structure ##
 ```
